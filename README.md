@@ -6,4 +6,4 @@
 
 📫 How to reach me : nawfal.seghir@gmail.com
 
-"If you torture the data long enough, it will confess" --Ronald Coase--
+'Without data, you’re just another person with an opinion' Edwards Deming
