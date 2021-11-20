@@ -4,6 +4,6 @@
 
 🌱 I'm currently working as Logistic Engineer but am also a Data Science Enthusiast 
 
-📫 How to reach me : nawfal.seghir@gmail.com
+📫 How to reach me : nawfal.seghir@gmail.com  // https://www.linkedin.com/in/nawfal-seghir/
 
 'Without data, you’re just another person with an opinion' Edwards Deming
